@@ -14,5 +14,6 @@ see my examples.
 Done all and yours tree downloaded in source, now use this commands:
 
 . build/envsetup.sh
+
 brunch device
 (device = you device)
