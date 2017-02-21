@@ -13,13 +13,13 @@
 <resources>
 
     <!-- Device Maintainer can input their inforation here or set it in an overlay for the device-->
-    <string name="device_support_title" translatable="false">YOU-DEVICE is supported by:</string>
-    <string name="dev_device" translatable="false">YOU NAME</string>
-    <string name="twitter_device" translatable="false">https://twitter.com/YOU</string>
-    <string name="github_device" translatable="false">https://github.com/YOU</string>
-    <string name="gplus_device" translatable="false">https://plus.google.com/+YOU</string>
+    <string name="device_support_title" translatable="false">YOUR DEVICE is supported by:</string>
+    <string name="dev_device" translatable="false">EsromG5</string>
+    <string name="twitter_device" translatable="false">https://twitter.com/</string>
+    <string name="github_device" translatable="false">https://github.com/EsromG5</string>
+    <string name="gplus_device" translatable="false">https://plus.google.com/+EsromTech</string>
     <!-- The developer photo is pulled from Gravatar using the supplied email address
          Set email_device to @null to use the fallback photo image -->
-    <string name="email_device" translatable="false">YOU@gmail.com</string>
+    <string name="email_device" translatable="false">esromgalaxy5@gmail.com</string>
 
 </resources>
