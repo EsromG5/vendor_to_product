@@ -1,7 +1,7 @@
 # vendor_to_product_manufacturer
 Devices tree to OctOS
 
-git clone https://github.com/EsromG5/vendor_to_product -b master manufacturer/device
+    git clone https://github.com/EsromG5/vendor_to_product -b master manufacturer/device
 
 
 Add in values the file strings.xml with yours change.
@@ -14,7 +14,7 @@ see my examples.
 
 Done all and yours tree clone on source, now use this commands:
 
-. build/envsetup.sh
+    . build/envsetup.sh
 
-brunch device
+    brunch device
 (device = you device)
